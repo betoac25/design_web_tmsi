@@ -1,15 +1,3 @@
-h1{
-    color: blue;
-    font-size: 30px;
-    text-align: center;
-}
-div#imagem{
-    text-align: center;
-}
-body{
-    background-color: aqua;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjJP3DhWsFn3y9nSJt8sl8UwCKyWPgSXmWRQ&usqp=CAU)
-}
-p{
-    font-weight: bold;
+img{
+    image-orientation: center;
 }
